@@ -25,9 +25,8 @@
 - py -m venv venv
 
 - 가상환경 접속
-- venv/scripts/activate
-
+- venv\Scripts\activate
 - pip install numpy
 - pip install pandas
-- pip install malplotlib
+- pip install matplotlib
 - pip install seaborn
