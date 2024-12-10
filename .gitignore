@@ -173,4 +173,8 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# Pickle files
+scaler.pkl
+transfer_model.pkl
+
 # End of https://www.toptal.com/developers/gitignore/api/python
