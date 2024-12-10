@@ -32,6 +32,8 @@
 
 - 가상환경 접속
     - venv\Scripts\activate
+
+- 외부 패키지 설치
     - pip install numpy
     - pip install pandas
     - pip install matplotlib
